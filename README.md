@@ -1,2 +1,2 @@
-# fake_reviews
-Text classifiers of fake reviews
+# Text classifiers of fake reviews
+* BoW models
